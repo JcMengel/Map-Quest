@@ -38,11 +38,7 @@ jobs:
     - name: Test program
       run: |
         python3 mapquest_parse-json_7.py
-        Moscow, Russia
-        Bejing, China
-        Moscow, Russia
-        no exsist landia
-        doodooville
-        no exsist landia
+        q
+        
         
       
