@@ -36,5 +36,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest mapquest_parse-json_6.py
+        pytest mapquest_parse-json_7.py
       
