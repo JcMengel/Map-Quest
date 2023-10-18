@@ -38,6 +38,12 @@ jobs:
     - name: Test program
       run: |
         echo python3 mapquest_parse-json_7.py
+        echo Moscow, Russia
+        echo Bejin, China
+        echo Moscow, Russia
+        echo nowhere vill
+        echo 10
+        echo russia
         echo q
         
         
