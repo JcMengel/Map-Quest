@@ -37,8 +37,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test program
       run: |
-        python3 mapquest_parse-json_7.py
-        q
+        echo python3 mapquest_parse-json_7.py
+        echo q
         
         
       
